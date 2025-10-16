@@ -1,10 +1,6 @@
 # Learning Biopython
 
-![Biopython Logo](https://upload.wikimedia.org/wikipedia/commons/6/6d/Biopython_logo.png)
-
-This repository contains the code I write while learning Biopython. It is mainly for practicing Python in a bioinformatics context.
-
----
+This repository contains the code I write while learning Biopython. It is mainly for practicing Python in a bioinformatics context
 
 ## About
 
