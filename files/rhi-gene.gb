@@ -1,0 +1,68 @@
+LOCUS       AY944347                1081 bp    DNA     linear   INV 26-JUL-2016
+DEFINITION  Drosophila azteca rhino (rhi) gene, complete cds.
+ACCESSION   AY944347
+VERSION     AY944347.1
+KEYWORDS    .
+SOURCE      Drosophila azteca
+  ORGANISM  Drosophila azteca
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila; Sophophora.
+REFERENCE   1  (bases 1 to 1081)
+  AUTHORS   Vermaak,D., Henikoff,S. and Malik,H.S.
+  TITLE     Positive Selection Drives the Evolution of rhino, a Member of the
+            Heterochromatin Protein 1 Family in Drosophila
+  JOURNAL   PLoS Genet. 1 (1), E9 (2005)
+   PUBMED   16103923
+REFERENCE   2  (bases 1 to 1081)
+  AUTHORS   Vermaak,D., Henikoff,S. and Malik,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-FEB-2005) Division of Basic Sciences, Fred Hutchinson
+            Cancer Research Center, 1100 Fairview Ave N, Seattle, WA 98109, USA
+FEATURES             Location/Qualifiers
+     source          1..1081
+                     /organism="Drosophila azteca"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7249"
+                     /note="Tucson Drosophila Stockcenter number 14012-0171.0"
+     gene            <1..>1081
+                     /gene="rhi"
+                     /note="HP1"
+     mRNA            join(<1..678,806..>1081)
+                     /gene="rhi"
+                     /product="rhino"
+     CDS             join(1..678,806..1081)
+                     /gene="rhi"
+                     /note="similar to heterochromatin protein 1; chromo and
+                     chromo shadow domain"
+                     /codon_start=1
+                     /product="rhino"
+                     /protein_id="AAY34017.1"
+                     /translation="MKNTKKKKSTKGKMVKKEYVVESIQGKRFYENETQYYVKWEGFG
+                     PESCTWEPMQNLGKCIHLLAKFENFVQMHDYSTPPAEPEPGPNQLNNLNIKSVRLSES
+                     SDEEPSPAFEPVTPSESRRALSTSSSSSSSSESSCTSSQSSSSPEPQPQPQPEPEPVF
+                     PTKQTKSKPGRPIRKVQPKPQAVLPTKKTKSPSQPDLSANKEKVKVADALDAAKKNKK
+                     GAEDTKDCSTLDDEDYDDGPTGLELGLKLEKVFHHFAVDNEMYLAVKWVDSDEYDMVH
+                     ISQISELYPNEIKRYFDTLQRLENELVSSVFVWLCVXRVWM"
+ORIGIN      
+        1 atgaaaaaca caaagaaaaa aaaatcgaca aaaggcaaaa tggttaaaaa ggaatacgtt
+       61 gtagaaagta ttcaaggaaa gcgtttttat gaaaatgaaa cgcagtatta tgtaaaatgg
+      121 gagggcttcg gccccgagag ctgcacctgg gagccgatgc agaatcttgg caaatgcatt
+      181 catctgttgg ccaagtttga gaactttgtt caaatgcacg attatagtac cccaccggca
+      241 gagccagagc cagggcccaa tcagctcaat aatttgaaca taaaatctgt ccggctgagc
+      301 gaatccagtg acgaggaacc atcgccggct tttgaaccag tcaccccatc agaaagtcga
+      361 agggctttgt caacctcctc ctcctcctcg tccagctccg agtcttcatg cacctcttca
+      421 caatcaagct cttcgccgga accccaaccg caaccccagc cggaaccgga acctgttttc
+      481 ccgactaagc aaaccaaaag caaaccaggt cgccctatca ggaaagtcca acccaaaccc
+      541 caagctgtgc ttcccaccaa gaaaaccaaa tccccatcgc aaccagacct ctctgccaat
+      601 aaagaaaaag taaaggtcgc cgacgcactg gatgctgcaa agaagaataa gaaaggcgca
+      661 gaggatacta aagattgtgt aggaaaggac aggacatcaa actgatacca agaactccac
+      721 ttttagagtt tcgggtgacg gtttggtttc cttgctttca aaaaataaaa tccatttgat
+      781 actgattaca ctttccctat aacagagtac tctagatgat gaggactatg acgacggacc
+      841 tactggctta gagcttgggc tcaagttgga aaaagtgttc caccactttg cagtggacaa
+      901 cgaaatgtat ctagccgtaa agtgggtgga cagcgatgag tacgatatgg tgcatatctc
+      961 tcagataagc gagctatatc caaatgaaat caaacgatat ttcgatactc tgcagcggct
+     1021 cgaaaatgaa ctggtgagtt ctgtgtttgt ttggttgtgt gtttngcgtg tgtggatgta
+     1081 g
+//
+
